@@ -8,4 +8,4 @@ The fonts upon the website you visit might be different to the actual that is co
 Fonts used (by DaFont): Heavitas and Creato Display
 
 <br>
-Above are some ".ttf" installations for these fonts required to view on the website.
+Above are some ".ttf" installations for these fonts required to view on the website, that are placed on the "font" folder.
